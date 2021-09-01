@@ -21,8 +21,8 @@
   ],
   "minimum-stability": "dev",
   "require": {
-    "php": "^7.1||8.0^",
-    "hashids/hashids": "3.0.0",
+    "php": "^7.1||^8.0",
+    "hashids/hashids": "^4.1.0",
     "aliyuncs/oss-sdk-php": "^2.3",
     "league/flysystem": "^1.0",
     "qcloud/cos-sdk-v5": ">=2.0",
